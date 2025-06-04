@@ -1,0 +1,6 @@
+@GS_AquaIntel_HostAddress = http://localhost:5286
+
+GET {{GS_AquaIntel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
