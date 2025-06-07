@@ -54,5 +54,5 @@ AquaIntelAPI/
    git clone https://github.com/ryanxaxxxx/GS_AquaIntel.git
    cd  GS_AquaIntel
 
-![Texto alternativo](Diagrama.png)
+
    
