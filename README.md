@@ -54,6 +54,10 @@ AquaIntelAPI/
    git clone https://github.com/ryanxaxxxx/GS_AquaIntel.git
    cd  GS_AquaIntel
 
+## 📘 Documentação da API (Swagger)
+Após iniciar a aplicação, acesse:
+https://localhost:7077/swagger/index.html
+
 ## Link para Vídeo no Youtube:
 https://youtu.be/cl_f2KwgZYc
 
