@@ -53,6 +53,10 @@ AquaIntelAPI/
    ```bash
    git clone https://github.com/ryanxaxxxx/GS_AquaIntel.git
    cd  GS_AquaIntel
+   
+2. Execute a aplicação:
+   dotnet run
+
 
 ## 📘 Documentação da API (Swagger)
 Após iniciar a aplicação, acesse:
