@@ -65,6 +65,9 @@ https://localhost:7077/swagger/index.html
 ## Link para Vídeo no Youtube:
 https://youtu.be/cl_f2KwgZYc
 
+## Vídeo Pitch:
+https://youtu.be/tnTmQZZY6BU
+
 
 
    
